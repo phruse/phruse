@@ -1,6 +1,7 @@
 ## 👋 반가워요!
 ### 🥳 이것저것 다 해보는 TA 지망생 고1 프로그래머에요.
 [![github stats](https://github-readme-stats.vercel.app/api?username=phruse)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phruse)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔨 할 수 있어요!
 #### 👍 잘해요.
 - C++ 최적화
