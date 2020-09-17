@@ -14,7 +14,7 @@
 - OpenGL, Vulcan 프로그래밍
 - 서버 프로그래밍
     - 최근에는 분산서버를 만들어 볼려고 여러가지를 공부중이에요!
-- [Photoshop으로 일러스트 그리기]{https://www.pixiv.net/users/45348882}
+- [Photoshop으로 일러스트 그리기](https://www.pixiv.net/users/45348882)
 
 ### ⏳ 지금은
 - 소규모 인디게임 팀에서 맵 프로그래밍을 담당하고 있어요!
