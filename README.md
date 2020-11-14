@@ -1,6 +1,5 @@
 ## 👋 Nice to meet you!
 ### 🥳 I'm a high school programmer aspiring TA who doing this and that.
-[![github stats](https://github-readme-stats.vercel.app/api?username=phruse)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔨 I can do it!
 #### 👍 Do well.
 - C++ optimization
