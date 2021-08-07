@@ -1,6 +1,6 @@
 ## 👋 Nice to meet you!
 ### 🥳 I'm a high school programmer aspiring TA.
-<a href="https://ibb.co/H79ptPb"><img src="https://i.ibb.co/hsT1Bd4/1.png" alt="1" border="0"></a>
+<img src="https://i.ibb.co/wsjZG0D/image.png" alt="1" border="0">
 
 ### 📌 Domain knowledge
 - 🔥 Low-level optimizing
