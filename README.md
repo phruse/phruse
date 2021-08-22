@@ -1,7 +1,7 @@
 ## 👋 Nice to meet you!
 <img src="https://i.ibb.co/wsjZG0D/image.png" alt="1" border="0">
 
-### 🥳 I'm a programmer aspiring TA.
+### 🥳 I'm solo game developer.
 
 ### 📌 Domain knowledge
 - 🔥 Low-level optimizing
