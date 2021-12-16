@@ -1,7 +1,11 @@
 ## 👋 Nice to meet you!
-<img src="https://i.ibb.co/wsjZG0D/image.png" alt="1" border="0">
+<img src="https://i.ibb.co/TbL43bJ/dwds-dwd-1.png" alt="1" border="0">
 
-### 🥳 I'm solo game developer.
+### 🥳 I'm developer.
+
+My goal is to develop the underlying technology used by numerous people.
+
+So currently, I'm concentrating on theory better than programming.
 
 ### 📌 Domain knowledge
 - 🔥 Low-level optimizing
